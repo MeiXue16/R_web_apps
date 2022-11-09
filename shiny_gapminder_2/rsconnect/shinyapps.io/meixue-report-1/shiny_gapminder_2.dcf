@@ -1,0 +1,13 @@
+name: shiny_gapminder_2
+title: shiny_gapminder_2
+username:
+account: meixue-report-1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7566610
+bundleId: 6491228
+url: https://meixue-report-1.shinyapps.io/shiny_gapminder_2/
+when: 1667949802.58551
+lastSyncTime: 1667949802.58551
+asMultiple: FALSE
+asStatic: FALSE
