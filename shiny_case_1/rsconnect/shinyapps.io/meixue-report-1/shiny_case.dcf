@@ -1,0 +1,14 @@
+name: shiny_case
+title: shiny_case
+username:
+account: meixue-report-1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7650949
+bundleId: 6522264
+url: https://meixue-report-1.shinyapps.io/shiny_case/
+when: 1668630522.09389
+lastSyncTime: 1668630522.09389
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: file.TXT
